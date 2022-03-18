@@ -32,6 +32,7 @@ include 'backend/database.php';
 					</div>
                 </div>
             </div>
+            <h1>HOLA NEGRO</h1>
             <table class="table table-striped table-hover">
                 <thead>
                     <tr>
